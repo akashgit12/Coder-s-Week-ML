@@ -1,0 +1,33 @@
+						MACHINE LEARNING
+	ML ,that is ,Machine Learning is not a seperate concept or study to learn but many studies are associated with it.The factors that relate ML are:
+	1.AI i.e. Artificial Intelligence
+	2.DL i.e. Deep Learning 
+	3.ANN i.e. Artificial Neural Networks
+	4.NLP i.e. Natural Language Processing
+	5.ASR i.e. Automated Speech Recognition
+
+	So now what is ML?
+	> It is an idea that says any machine or systems that  can learn by themselves that  is they can learn from   their previous experience.
+
+	Now the question arises how can a machine ever learn from its experience since it  is not a human ?
+		
+	The answer is Artificial Intelligence!  This is so because AI is a study of making smart or intelligent machines	
+
+
+ 
+	Deep Learning is also an idea that a machine learns from its experince but it handles large amount of data.
+	ANN:
+	When you search for Virat Kohli on google the recommendations we get are of Anushka Sharma or MS Dhoni and many more.
+	When we type a product on amazon we get something like this : 'Customers who viewed this item also viewed'.  So the idea behind these 	related searches is neural networks or ANN.
+
+	ASR is the processing of speech to text whereas NLP is the processing of the text to understand meaning.
+
+	Speaking more of ML, as it is evident from the name ,it gives the computer something which makes it similar to humans; and that something is 	the ability to learn.
+	Technically speaking we say that in ML we dont require or we dont do expilcit programming i.e. we dont need to give instructions to the 	computer it will do it automatically.
+	Lastly ML is an idea in which a machine learns from the input!
+
+
+
+		
+		
+		
